@@ -27,6 +27,8 @@ print(df.tail())
 print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
+
+
 ## OUTPUT:
 ![image](https://github.com/23002248/Read-from-CSV/assets/151701774/79637654-8062-4049-9ea8-4518f5b9fec6)
 
